@@ -68,9 +68,7 @@ python launch_app.py
 ```
 
 ### Access
-- **Web App**: http://localhost:8501
-- **API**: http://localhost:8000
-- **API Docs**: http://localhost:8000/docs
+- **Web App **: https://huggingface.co/spaces/m-ubaid/flight-delay
 
 ---
 
@@ -440,3 +438,4 @@ Batch Capacity:      1,000 flights
 ---
 
 Made with ❤️ for aviation data science
+
